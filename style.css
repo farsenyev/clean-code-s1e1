@@ -137,11 +137,11 @@ li > input[type="text"] {
 }
 
 /* Edit Task */
-ul li input[type=text] {
+ul li input[type="text"] {
     display: none
 }
 
-ul .li__edit__mode input[type=text] {
+ul .li__edit__mode input[type="text"] {
     display: inline-block;
     width: 224px;
 }
