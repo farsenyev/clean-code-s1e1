@@ -61,7 +61,7 @@ button:hover {
 }
 /* Heading */
 h3,
-label[for='input__new__task'] {
+label[for="input__new__task"] {
     color: #333;
     font-weight: 700;
     font-size: 15px;
@@ -87,11 +87,11 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-label[for='input__new__task'] {
+label[for="input__new__task"] {
     display: block;
     margin: 0 0 20px;
 }
-#main__add__tasks {
+#input__new__task {
     width: 318px;
 }
 
